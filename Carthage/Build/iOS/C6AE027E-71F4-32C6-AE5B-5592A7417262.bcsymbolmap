@@ -1,0 +1,29 @@
+BCSymbolMap Version: 2.0
+_swift_rt_swift_getInitializedObjCClass
+_swift_rt_swift_slowAlloc
+_swift_rt_swift_slowDealloc
+__TWoFC6Object6ObjectCfT_S0_
+__TMfC6Object6Object
+__TMRfC6Object6Object
+__swift_FORCE_LOAD_$_swiftUIKit_$_Object
+__swift_FORCE_LOAD_$_swiftCoreImage_$_Object
+__swift_FORCE_LOAD_$_swiftDarwin_$_Object
+__swift_FORCE_LOAD_$_swiftCoreGraphics_$_Object
+__swift_FORCE_LOAD_$_swiftDispatch_$_Object
+__swift_FORCE_LOAD_$_swiftObjectiveC_$_Object
+__swift_FORCE_LOAD_$_swiftFoundation_$_Object
+__swift_FORCE_LOAD_$_swiftQuartzCore_$_Object
+___swift_reflection_version
+_objc_classes
+Apple LLVM version 8.1.0 (clang-802.0.42)
+-emit-bc /Users/wc/Documents/GitHub/Object/Object/Object.swift -target armv7-apple-ios10.3 -enable-objc-interop -sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.3.sdk -I /Users/wc/Library/Developer/Xcode/DerivedData/Object-fivkmwtbzbveqzamnpjtnbqhuvda/Build/Products/Release-iphoneos -F /Users/wc/Library/Developer/Xcode/DerivedData/Object-fivkmwtbzbveqzamnpjtnbqhuvda/Build/Products/Release-iphoneos -g -import-underlying-module -module-cache-path /Users/wc/Library/Developer/Xcode/DerivedData/ModuleCache -serialize-debugging-options -Xcc -I/Users/wc/Library/Developer/Xcode/DerivedData/Object-fivkmwtbzbveqzamnpjtnbqhuvda/Build/Intermediates/Object.build/Release-iphoneos/Object.build/swift-overrides.hmap -Xcc -iquote -Xcc /Users/wc/Library/Developer/Xcode/DerivedData/Object-fivkmwtbzbveqzamnpjtnbqhuvda/Build/Intermediates/Object.build/Release-iphoneos/Object.build/Object-generated-files.hmap -Xcc -I/Users/wc/Library/Developer/Xcode/DerivedData/Object-fivkmwtbzbveqzamnpjtnbqhuvda/Build/Intermediates/Object.build/Release-iphoneos/Object.build/Object-own-target-headers.hmap -Xcc -I/Users/wc/Library/Developer/Xcode/DerivedData/Object-fivkmwtbzbveqzamnpjtnbqhuvda/Build/Intermediates/Object.build/Release-iphoneos/Object.build/Object-all-non-framework-target-headers.hmap -Xcc -ivfsoverlay -Xcc /Users/wc/Library/Developer/Xcode/DerivedData/Object-fivkmwtbzbveqzamnpjtnbqhuvda/Build/Intermediates/Object.build/all-product-headers.yaml -Xcc -iquote -Xcc /Users/wc/Library/Developer/Xcode/DerivedData/Object-fivkmwtbzbveqzamnpjtnbqhuvda/Build/Intermediates/Object.build/Release-iphoneos/Object.build/Object-project-headers.hmap -Xcc -I/Users/wc/Library/Developer/Xcode/DerivedData/Object-fivkmwtbzbveqzamnpjtnbqhuvda/Build/Products/Release-iphoneos/include -Xcc -I/Users/wc/Library/Developer/Xcode/DerivedData/Object-fivkmwtbzbveqzamnpjtnbqhuvda/Build/Intermediates/Object.build/Release-iphoneos/Object.build/DerivedSources/armv7 -Xcc -I/Users/wc/Library/Developer/Xcode/DerivedData/Object-fivkmwtbzbveqzamnpjtnbqhuvda/Build/Intermediates/Object.build/Release-iphoneos/Object.build/DerivedSources -Xcc -ivfsoverlay -Xcc /Users/wc/Library/Developer/Xcode/DerivedData/Object-fivkmwtbzbveqzamnpjtnbqhuvda/Build/Intermediates/Object.build/Release-iphoneos/Object.build/unextended-module-overlay.yaml -Xcc -working-directory/Users/wc/Documents/GitHub/Object -emit-module-doc-path /Users/wc/Library/Developer/Xcode/DerivedData/Object-fivkmwtbzbveqzamnpjtnbqhuvda/Build/Intermediates/Object.build/Release-iphoneos/Object.build/Objects-normal/armv7/Object.swiftdoc -serialize-diagnostics-path /Users/wc/Library/Developer/Xcode/DerivedData/Object-fivkmwtbzbveqzamnpjtnbqhuvda/Build/Intermediates/Object.build/Release-iphoneos/Object.build/Objects-normal/armv7/Object.dia -O -parse-as-library -module-name Object -emit-module-path /Users/wc/Library/Developer/Xcode/DerivedData/Object-fivkmwtbzbveqzamnpjtnbqhuvda/Build/Intermediates/Object.build/Release-iphoneos/Object.build/Objects-normal/armv7/Object.swiftmodule -emit-objc-header-path /Users/wc/Library/Developer/Xcode/DerivedData/Object-fivkmwtbzbveqzamnpjtnbqhuvda/Build/Intermediates/Object.build/Release-iphoneos/Object.build/Objects-normal/armv7/Object-Swift.h -emit-dependencies-path /Users/wc/Library/Developer/Xcode/DerivedData/Object-fivkmwtbzbveqzamnpjtnbqhuvda/Build/Intermediates/Object.build/Release-iphoneos/Object.build/Objects-normal/armv7/Object.d -num-threads 10 -o /Users/wc/Library/Developer/Xcode/DerivedData/Object-fivkmwtbzbveqzamnpjtnbqhuvda/Build/Intermediates/Object.build/Release-iphoneos/Object.build/Objects-normal/armv7/Object.bc -resource-dir /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift
+<swift-imported-modules>
+/Users/wc/Documents/GitHub/Object
+Apple Swift version 3.1 (swiftlang-802.0.53 clang-802.0.42)
+/Users/wc/Documents/GitHub/Object/Object/Object.swift
+_TMaC6Object6Object
+Object.swift
+/Users/wc/Documents/GitHub/Object/Object
+get_field_types_Object
+deinit
+/Users/wc/Library/Developer/Xcode/DerivedData/Object-fivkmwtbzbveqzamnpjtnbqhuvda/Build/Intermediates/Object.build/Release-iphoneos/Object.build/DerivedSources/Object_vers.c

@@ -1,0 +1,10 @@
+framework module Object {
+  umbrella header "Object.h"
+
+  export *
+  module * { export * }
+}
+
+module Object.Swift {
+    header "Object-Swift.h"
+}
